@@ -51,18 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
-
-// Use this template below
-
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+         id: "2202901520054" ,
+         name: "Deepanshi verma",
+        img: "https://github.com/deepanshi3112.png",
+         role: "contributer",
+         social1: "https://twitter.com/Deepanshiv3112",
+        social2: "https://www.linkedin.com/in/deepanshi-verma-91662923a",
+       desc: "Student",
+       },
   ];
 
 
